@@ -8,7 +8,7 @@ each other, this means that no two queens are in the same row, the same column, 
 Example 
 	Input : N = 4
 	Output: 
-			_ Q _ _	     _ _ Q _
+		_ Q _ _	     _ _ Q _
 	        _ _ _ Q      Q _ _ _ 
 	        Q _ _ _      _ _ _ Q
 	        _ _ Q _      _ Q _ _ 
